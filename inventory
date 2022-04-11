@@ -1,5 +1,5 @@
 [server1]
-13.76.154.151
+
 
 [server1:var]
 ansible_user=labadmin
